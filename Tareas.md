@@ -17,7 +17,7 @@
 |T07| Documentación del problema 1|
 |T08| Pruebas del problema 1|
 |T09| Programa Java 2|
-T10: Documentación del problema 2|
+T101 Documentación del problema 2|
 |T11| Pruebas del problema 2|
 |T12| Resultados y conclusión|
 |T13| Estilos de la página web|
