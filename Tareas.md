@@ -1,11 +1,11 @@
-#Organización del proyecto integrador
-##Integrantes:
--Batxindeje Viveros Ruby
--Soto Martínez Vanesa
--García Gonzalez Félix Jesús
--Hernández López Alan Fidel
--Rodríguez Sánchez Kimberly
-##Asignación de tareas 
+# Organización del proyecto integrador
+## Integrantes:
+- Batxindeje Viveros Ruby
+- Soto Martínez Vanesa
+- García Gonzalez Félix Jesús
+- Hernández López Alan Fidel
+- Rodríguez Sánchez Kimberly
+## Asignación de tareas 
 |ID|Actividad|Responsable|Estado|
 |---|---|---|---|
 |T01| Organización y asignaciones|Ruby|En Proceso|
