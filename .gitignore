@@ -1,0 +1,6 @@
+ *.class
+ *.tmp
+ *.long
+ .DS_Store
+ Thumbs.db
+ .vscode/
